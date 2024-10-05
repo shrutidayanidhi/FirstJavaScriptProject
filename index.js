@@ -1,1 +1,1 @@
-console.log("First index")
+console.log("First Index")
